@@ -1,9 +1,9 @@
 # FlixsterP1KotlinCodePath
-# Android Project 3 - *FlixsterPlus*
+# Android Project 3 - *Flixter*
 
-Submitted by: **Barsha Chaudhary**
+Submitted by: **Khloe Wright**
 
-**FlixsterPlus** is a movie browsing app that allows users to browse movies currently playing in theaters.
+**Flixter** is a movie browsing app that allows users to browse movies currently playing in theaters.
 
 Time spent: **5.2** hours spent in total
 
