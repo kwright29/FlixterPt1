@@ -34,12 +34,10 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough of implemented user stories: 
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/dcMDrn5' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-[Kap](https://getkap.co/) for macOS
-![walkthrough-Project3](https://user-images.githubusercontent.com/64405568/190891035-63c939ce-0745-4788-a641-7c798c0ebe26.gif)
 
 ## Notes
 
